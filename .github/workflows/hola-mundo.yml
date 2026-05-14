@@ -67,3 +67,13 @@ jobs:
           echo ""
           echo "==========================================="
 
+      - name: "Sobre mi"
+        run: |
+          echo "==========================================="
+          echo "  Nombre:      Arturo Corpas Ulloa"
+          echo "  Programa:    Ingeniera en Desarrollo de Software y Datos"
+          echo "  Institucion: IU Digital de Antioquia"
+          echo "  Fecha:       13/05/2026"
+          echo "  Mi primer Action funciona!"
+          echo "==========================================="
+
